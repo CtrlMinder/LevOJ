@@ -1,0 +1,23 @@
+﻿生成启动时间为 2022/12/16 16:22:45。
+     1>项目“C:\Users\86176\documents\visual studio 2010\Projects\6174黑洞\6174黑洞\6174黑洞.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\6174黑洞.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test1.c
+         test1.c
+     1>c:\users\86176\documents\visual studio 2010\projects\6174黑洞\6174黑洞\test1.c(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\86176\documents\visual studio 2010\Projects\6174黑洞\Debug\6174黑洞.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\6174黑洞.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\86176\documents\visual studio 2010\Projects\6174黑洞\Debug\6174黑洞.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\86176\documents\visual studio 2010\Projects\6174黑洞\Debug\6174黑洞.lib" /MACHINE:X86 Debug\test1.obj
+         LINK : 没有找到 C:\Users\86176\documents\visual studio 2010\Projects\6174黑洞\Debug\6174黑洞.exe 或上一个增量链接没有生成它；正在执行完全链接
+         6174黑洞.vcxproj -> C:\Users\86176\documents\visual studio 2010\Projects\6174黑洞\Debug\6174黑洞.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\86176\documents\visual studio 2010\Projects\6174黑洞\Debug\6174黑洞.exe;#1" /manifest "Debug\6174黑洞.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\6174黑洞.unsuccessfulbuild”。
+         正在对“Debug\6174黑洞.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\86176\documents\visual studio 2010\Projects\6174黑洞\6174黑洞\6174黑洞.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.77
