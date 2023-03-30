@@ -1,0 +1,13 @@
+﻿  P1092 Matrix Rotation.c
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(91,21): error C2057: 应输入常量表达式
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(91,21): error C2466: 不能分配常量大小为 0 的数组
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(91,24): error C2057: 应输入常量表达式
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(91,24): error C2466: 不能分配常量大小为 0 的数组
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(91,24): error C2087: “matrix”: 缺少下标
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(91,25): error C2133: “matrix”: 未知的大小
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(98,24): error C2057: 应输入常量表达式
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(98,24): error C2466: 不能分配常量大小为 0 的数组
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(98,27): error C2057: 应输入常量表达式
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(98,27): error C2466: 不能分配常量大小为 0 的数组
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(98,27): error C2087: “sum”: 缺少下标
+D:\Code\freshman1\P1092 Matrix Rotation\P1092 Matrix Rotation\P1092 Matrix Rotation.c(98,28): error C2133: “sum”: 未知的大小
