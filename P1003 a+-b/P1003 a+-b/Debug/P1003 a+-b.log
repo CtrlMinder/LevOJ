@@ -1,0 +1,25 @@
+﻿生成启动时间为 2022/12/18 17:00:05。
+     1>项目“c:\Users\86176\documents\visual studio 2010\Projects\P1003 a+-b\P1003 a+-b\P1003 a+-b.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\P1003 a+-b.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>c:\users\86176\documents\visual studio 2010\projects\p1003 a+-b\p1003 a+-b\test.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\86176\documents\visual studio 2010\projects\p1003 a+-b\p1003 a+-b\test.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\86176\documents\visual studio 2010\Projects\P1003 a+-b\Debug\P1003 a+-b.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\P1003 a+-b.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\86176\documents\visual studio 2010\Projects\P1003 a+-b\Debug\P1003 a+-b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\86176\documents\visual studio 2010\Projects\P1003 a+-b\Debug\P1003 a+-b.lib" /MACHINE:X86 Debug\test.obj
+         LINK : 没有找到 c:\users\86176\documents\visual studio 2010\Projects\P1003 a+-b\Debug\P1003 a+-b.exe 或上一个增量链接没有生成它；正在执行完全链接
+         P1003 a+-b.vcxproj -> c:\users\86176\documents\visual studio 2010\Projects\P1003 a+-b\Debug\P1003 a+-b.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\86176\documents\visual studio 2010\Projects\P1003 a+-b\Debug\P1003 a+-b.exe;#1" /manifest "Debug\P1003 a+-b.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\P1003 a+-b.unsuccessfulbuild”。
+         正在对“Debug\P1003 a+-b.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“c:\Users\86176\documents\visual studio 2010\Projects\P1003 a+-b\P1003 a+-b\P1003 a+-b.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.51
