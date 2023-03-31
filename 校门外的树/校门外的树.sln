@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "校门外的树", "校门外的树\校门外的树.vcxproj", "{D80086A6-5680-4FE8-9172-90981B03C8B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D80086A6-5680-4FE8-9172-90981B03C8B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D80086A6-5680-4FE8-9172-90981B03C8B1}.Debug|Win32.Build.0 = Debug|Win32
+		{D80086A6-5680-4FE8-9172-90981B03C8B1}.Release|Win32.ActiveCfg = Release|Win32
+		{D80086A6-5680-4FE8-9172-90981B03C8B1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
